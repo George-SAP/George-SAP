@@ -79,7 +79,7 @@ ___
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=George-SAP&theme=radical&hide_border=true)
+<img alt="George-SAP's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=George-SAP&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
 
 <table>
 	<tr>
